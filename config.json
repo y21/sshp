@@ -1,0 +1,10 @@
+{
+    "welcome": [
+        "Last login: Wed Oct 17 13:52:16 AEDT 2018 from 192.168.0.0 on pts/0",
+        "Welcome to Ubuntu 18.04.1 LTS (GNU/Linux 4.15.0-36-generic x86_64)"
+    ],
+    "username": "root",
+    "hostname": "dedi01",
+    "homeDir": "/root",
+    "webhook": "https://discordapp.com/api/webhooks/695952675770204200/OFHiY6-dgyBS4mzGDU6M_nz6OpLf8JJovTYj58ZqjvPmIuc_0K8jLqKbCX065SKKij5d"
+}
